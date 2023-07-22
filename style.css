@@ -1,0 +1,31 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-family: "PT Sans Narrow", sans-serif;
+}
+.d-flex {
+  padding: 20px, 0, 50px;
+}
+
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+.main-emoji {
+  font-size: 50px;
+}
+.main-weather {
+  font-size: 50px;
+  position: relative;
+  top: -77px;
+  left: 100px;
+  font-weight: bolder;
+}
+.extra-weather-info1 {
+  position: relative;
+  right: -800px;
+  top: -100px;
+  font-size: 15px;
+}
